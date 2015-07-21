@@ -4,4 +4,5 @@ diipaadaapaaaa, keijolla on kova käsi
 =======
 perkele
 >>>>>>> origin/master
-hyvähyvä
+hyvä, mutta ei niin hyvä
+Namnam
