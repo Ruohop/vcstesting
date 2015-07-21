@@ -4,4 +4,9 @@ diipaadaapaaaa, keijolla on kova käsi
 =======
 perkele
 >>>>>>> origin/master
+<<<<<<< HEAD
 hopliitti
+=======
+hyvä, mutta ei niin hyvä
+omnom
+>>>>>>> origin/master
